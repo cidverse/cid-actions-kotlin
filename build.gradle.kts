@@ -3,7 +3,7 @@ plugins {
     id("java")
     id("application")
     id("me.philippheuer.configuration") version "0.9.0"
-    id("com.github.johnrengelman.shadow") version "8.0.0"
+    id("com.github.johnrengelman.shadow") version "8.1.0"
 }
 
 // setup
