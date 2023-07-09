@@ -2,6 +2,7 @@
 plugins {
     id("java")
     id("application")
+    id("org.jetbrains.kotlin.jvm") version "1.9.0"
     id("me.philippheuer.configuration") version "0.10.6"
     id("com.github.johnrengelman.shadow") version "8.1.1"
 }
@@ -15,7 +16,7 @@ projectConfiguration {
 
 dependencies {
     // cli
-    implementation("com.github.ajalt.clikt:clikt:3.5.4")
+    implementation("com.github.ajalt.clikt:clikt:4.0.0")
 
     // sdk
 	implementation("io.github.cidverse:cid-sdk-java:0.0.7")
