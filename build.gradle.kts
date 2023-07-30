@@ -16,7 +16,7 @@ projectConfiguration {
 
 dependencies {
     // cli
-    implementation("com.github.ajalt.clikt:clikt:4.1.0")
+    implementation("com.github.ajalt.clikt:clikt:4.2.0")
 
     // sdk
 	implementation("io.github.cidverse:cid-sdk-java:0.0.7")
