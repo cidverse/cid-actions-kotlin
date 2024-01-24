@@ -22,7 +22,7 @@ dependencies {
 	implementation("io.github.cidverse:cid-sdk-java:0.0.7")
 
     // mockito
-    testImplementation("org.mockito:mockito-core:5.9.0")
+    testImplementation("org.mockito:mockito-core:5.10.0")
     testImplementation("org.mockito.kotlin:mockito-kotlin:5.2.1")
 }
 
