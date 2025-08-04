@@ -3,7 +3,7 @@ plugins {
     id("java")
     id("application")
     id("org.jetbrains.kotlin.jvm") version "2.1.21"
-    id("me.philippheuer.configuration") version "0.16.3"
+    id("me.philippheuer.configuration") version "0.17.0"
     id("com.github.johnrengelman.shadow") version "8.1.1"
 }
 
