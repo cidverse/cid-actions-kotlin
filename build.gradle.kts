@@ -23,7 +23,7 @@ dependencies {
 
     // mockito
     testImplementation("org.mockito:mockito-core:5.19.0")
-    testImplementation("org.mockito.kotlin:mockito-kotlin:6.0.0")
+    testImplementation("org.mockito.kotlin:mockito-kotlin:6.1.0")
 }
 
 application {
